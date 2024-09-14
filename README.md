@@ -1,6 +1,5 @@
 # EM System Calibration Method for 3D Ultrasoind Procedure Navigation
 - Implementation of a novel calibration pipeline and methods for 3D EM navigation
 - We keep our method & code privote due to commercial concern
-- Video Demo Link: <https://drive.google.com/file/d/12PXX7idlmfFrAn6Zr64mtc2qBsacHAeh/view?usp=sharing>
-  
-
+- Video Demo:
+  https://github.com/user-attachments/assets/51e44c8a-fe9a-4146-ba4a-187606b38907
